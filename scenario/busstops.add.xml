@@ -5,6 +5,7 @@ Author: Lara CODECA [codeca@gmail.com]
 -->
 
 <add>
+	<!-- <parkingArea id="ParkAreaA" lane="-31606#1_0" startPos="40" endPos="190" roadsideCapacity="5" angle="45" length="30"/> -->
 	<busStop id="10" lane="-32940#0_0" startPos="202.435562991" endPos="212.435562991" line=" AVL---_1 AVL---_12" />
 	<busStop id="102" lane="-31912#1_0" startPos="177.605137482" endPos="187.605137482" line=" AVL---_J1" />
 	<busStop id="103" lane="--31912#1_0" startPos="29.2519535535" endPos="39.2519535535" line=" AVL---_J1" />
